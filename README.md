@@ -14,11 +14,16 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 </header>
 
 <!--
-  <<< Author notes: Step 4 >>>
+start-markdown
+   Author notes: Step 4
+=======
+   Author notes: Step 5 
+ main
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
+ start-markdown
 ## Step 4: Make a task list
 
 _Great job adding a code example to the file :partying_face:_
@@ -56,6 +61,17 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
+=======
+## Step 5: Merge your pull request
+
+_Great job adding a task list to the file :heart:_
+
+You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
+
+### :keyboard: Activity: Merge your pull request
+
+1. Click **Merge pull request**.
+ main
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
